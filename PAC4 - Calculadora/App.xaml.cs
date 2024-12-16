@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace PAC4___Calculadora
+namespace PAC5___Calculadora
 {
     /// <summary>
     /// Interaction logic for App.xaml
