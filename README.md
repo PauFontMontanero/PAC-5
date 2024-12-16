@@ -48,7 +48,7 @@ A sophisticated calculator built with WPF that supports both basic and advanced 
 3. Launch the calculator from the created desktop shortcut or start menu
 
 For developers:
-1. Clone the repository: git clone [repository-url]
+1. Clone the repository: git clone [(https://github.com/PauFontMontanero/PAC-5)]
 2. Open the solution file (PAC5-Calculadora.sln) in Visual Studio 2022
 3. Build the solution (Ctrl + Shift + B)
 4. Run the application (F5)
